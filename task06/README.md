@@ -1,4 +1,4 @@
-🏏 Crickey: Your Ultimate Cricket Discord Bot 🏏
+# 🏏 Crickey: Your Ultimate Cricket Discord Bot 🏏
 
 My main task during the creation of this bot is to develop it and showcase my skills to HariGovind. I thoroughly enjoyed working on this project. Initially, I attempted web scraping using BeautifulSoup, and I learned how to do this by following the documentation provided. I started by gathering all the necessary data and then progressed to learning how to index and extract specific data. 🌐📈
 
