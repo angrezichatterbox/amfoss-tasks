@@ -1,57 +1,70 @@
-# How did I do the tasks ??
-Before the begining of the first task the git commands used by me include git clone for cloning the directory containing TerminalWizard.
-for cloning the statement used by me was git clone <link>
-The entire activity was done by me in Ubuntu.After that I connected my terminal and GitHub account by first installed gh using the command
-sudo apt install gh
-Then i logged into my account using the command git auth login
-## The First Challenge
-For the first task much of git commands werent required rather basic solution for logical questions were required for finding the name
-of the file
-## The Second Challenge
-I had't required to use much of git terminal commands
-## The Third Challenge
-Before the begining of the third challenge i had to change my branch according to the clue give to me "you'd have to switch to a branch, which is named after the subject taught by Professor Lupin at Hogwarts." after googling the subject i got the subject as defenseagainstthedarkarts but i didnt know the exact branch name for this i had to ask my mentor through which i got to know to find the name of the various branches git-a is the command i used through it i found the name of the branch is defenseAgainstTheDarkArts then i transfered to the spell book by using the command git checkout defenseAgainstTheDarkArts spellbook
-## The Fourth Challenge
-After reading the text given under the fourth challenge i got to know that the branchname must be thegraveyard to know the exact way of typing the branch name i used the git - a command through which i got to know the branch name is thegraveyard then i used git checkout thegraveyard spellbook and accordingly found my file 
-## The End
-During the search of the file name i had some diffculity so i had to use some trial and error since i wasn't a harry potter fan earlier and i found the code was aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs
-on using the base64 converter i got to know the code converts to https://github.com/TheHuntsman4/TheFinalSpell 
-On seaching the link on google i got a final spell and a task to do 
+# How I Tackled the Tasks 🧙‍♂️
 
+Before diving into the first task, I began by using the Git commands to set up my environment. I initiated the process by cloning the directory containing TerminalWizard using the following command:
 
-<img width="901" alt="Screenshot 2023-08-27 at 2 40 29 PM" src="https://github.com/angrezichatterbox/amfoss-tasks/assets/62511283/74c06316-1092-4b80-ae7f-d4595b03d1c4"> 
+#### git clone <link>
 
-on using the clone command in the terminal to clone the repository 
-on running the python script and editing the code to add the input as the code i got i got the follwing as output
+The entire magical journey unfolded in the enchanting realm of Ubuntu. 🪄✨
 
+Once I had the necessary repository, I needed to connect my terminal to my GitHub account. To accomplish this, I started by installing the GitHub CLI (gh) with the following command:
 
-<img width="1184" alt="Screenshot 2023-08-26 at 5 28 56 PM" src="https://github.com/angrezichatterbox/amfoss-tasks/assets/62511283/ef4cc29d-fafc-4f37-b687-0993a6cc0ee9">
+#### sudo apt install gh
 
-##### Overall I had to use a lot of git command at other steps of uploading as well as some steps where i dont rememeber where exactly i used the terminal commands so here is a list of all the commands i used 
+With the GitHub CLI in place, I proceeded to log into my GitHub account. 🪄🌟 I used the following command to initiate the authentication process:
 
-#### My Handy Git Commands Cheatsheet 📜🚀
+#### gh auth login
 
-#### Navigating Directories and Files 📂📄
-1. cd: The most frequently used command! Navigate directories and switch locations with ease.
-2. ls: List the contents of the current directory. Quick peek at what's around.
-3. touch: Need a new file? Use touch to create one swiftly. 
-#### Managing Directories 📁
-1. mkdir: Create a new directory without breaking a sweat.
-2. rm: Say goodbye to files or folders you no longer need.
-#### Editing Text Files ✏️
-For editing the file i used the vim <filename> for some while some i edited using visual studio code
-#### Git Magic 🪄🛠️
-1. git clone: Clone repositories effortlessly – your gateway to collaboration.
-2. git status: Peek into the current state of your files before committing. Are they modified? Staged? Let's find out!
-3. git add: Add files to the staging area, getting them ready for a snapshot.
-4. git commit: Capture your changes and additions with a meaningful message. A snapshot in time.
-5. git push: Propel your committed changes to the remote repository, sharing your work with the world. 🚀
+This allowed me to seamlessly access the GitHub powers I needed to tackle the tasks ahead. 🚀🔮✨
 
+## The First Challenge 🧙‍♂️
 
+For the inaugural task, the mystical realm of Git was not required. Instead, I delved into the world of logic and riddles to uncover the elusive file name. 📜🕵️
 
+## The Second Challenge 🧙‍♂️
 
+The second challenge also spared me from delving too deeply into Git's arcane commands. 🪄✨
 
+## The Third Challenge 🧙‍♂️
 
+In the third challenge, I faced the need to switch branches in alignment with the given clue: "you'd have to switch to a branch, which is named after the subject taught by Professor Lupin at Hogwarts." 🧙‍♀️📚 After a little research, I uncovered that the subject in question was "Defense Against the Dark Arts." However, the exact branch name eluded me. Seeking guidance from my mentor, I discovered the path forward: the command git-a led me to the branch named defenseAgainstTheDarkArts. With a flick of my digital wand, I switched to this branch using the incantation:
 
+#### git checkout defenseAgainstTheDarkArts spellbook
 
+## The Fourth Challenge 🧙‍♂️
 
+In the fourth challenge, I unearthed a branch named "thegraveyard" 🪦 using the git-a command. I then conjured the spell to transport myself to this branch:
+
+#### git checkout thegraveyard spellbook
+
+## The End 🧙‍♂️
+ 
+During my quest to find the elusive file name, I encountered some difficulties. As I wasn't well-versed in the lore of Harry Potter, I resorted to trial and error. Ultimately, I uncovered a mysterious code: aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs. A touch of magic, in the form of a base64 converter, revealed its true nature: https://github.com/TheHuntsman4/TheFinalSpell. A search through the digital ether led me to the final spell and one last task to complete. 🌟🪄🔮
+
+## My Handy Git Commands Cheatsheet 📜🚀
+
+### Navigating Directories and Files 📂📄
+
+cd: The trusty command for navigating directories and switching locations with ease.
+ls: Get a quick glance at the contents of the current directory.
+touch: Swiftly create new files when needed.
+Managing Directories 📁
+
+mkdir: Create fresh directories effortlessly.
+rm: Bid farewell to files or folders you no longer require.
+Editing Text Files ✏️
+For wielding the power of text file manipulation, I summoned:
+
+vim <filename> for some, while others were edited using the mystical Visual Studio Code.
+### Git Magic 🪄🛠️
+
+1. git clone: Effortlessly clone repositories, serving as your gateway to collaborative wizardry.
+
+2. git status: Peer into the current state of your files before committing. Are they modified? Staged? Let's unveil the mystery!
+
+3. git add: Gather your files and add them to the staging area, preparing them for a magical snapshot.
+
+4. git commit: Capture your changes and additions with a meaningful message. It's like freezing a moment in time.
+
+5. git push: Propel your committed changes to the remote repository, sharing your mystical work with the wider world. 🚀
+
+With these incantations, you have the power to navigate, edit, and harness the magic of Git. 🌟🪄🔮
