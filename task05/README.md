@@ -7,6 +7,8 @@ Some Blockers I faced during this project :
 
 What did i learn :
 --> I learned Basic CSS 
+
 --> I learned Basic Html
+
 --> I learned how to integrate CSS code and HTML Code For the first time.
 
