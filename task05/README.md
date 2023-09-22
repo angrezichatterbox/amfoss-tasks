@@ -3,6 +3,7 @@ This was a pretty fun task to do. 😄 I spent around 2-3 days on this task init
 
 Some Blockers I faced during this project :
 --> I was not able to get the correct allignment of the background image for this i had to learn how to use Css to properly align the entire background image properly without it being naturally zoomed
+
 --> While making the the items page i wasnt able to propelry align the entire table Even though its still not completeley aligned i felt it was much better than before since earlier the items got hidden.
 
 What did i learn :
