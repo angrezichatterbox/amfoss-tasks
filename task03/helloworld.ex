@@ -1,11 +1,14 @@
-n = String.trim(IO.read(:stdio, :line)) |> String.to_integer()
-Enum.each(2..(n-1), fn i ->
-  prime = true
-  Enum.each(2..(i-1), fn b ->
-    if rem(i, b) == 0 do
-      prime = false
-      :break
-    end
-  end)
-  IO.puts(i) if prime
-end)
+defmodule NPrimes do
+  def get_primes(n) when n < 2, do: []
+  def get_primes(n), do: Enum.filter(2..n, &is_prime?(&1))
+
+  defp is_prime?(2), do: true
+  defp is_prime?(3), do: true
+  defp is_prime?(x) when is_integer(x) and x > 3, do: is_prime?(x, 2)
+
+  defp is_prime?(x, divisor) when divisor * divisor > x, do: true
+  defp is_prime?(x, divisor) when rem(x, divisor) == 0, do: false
+  defp is_prime?(x, divisor) do
+    is_prime?(x, divisor + 1)
+  end
+end

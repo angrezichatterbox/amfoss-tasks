@@ -1,7 +1,9 @@
-main :: IO ()
-main = do
-    n <- readLn
-    mapM_ print [i | i <- [2..n-1], isPrime i]
-
+factors :: Int -> [Int]
+factors n = [x | x <- [1..n], (mod n x) == 0]
 isPrime :: Int -> Bool
-isPrime i = all (\b -> i `mod` b /= 0) [2..i-1]
+isPrime n = (factors n) == [1,n]
+generatePrime :: Int -> [Int]
+generatePrime n = [x | x <- [1..n], isPrime x]
+main = do
+  putStrLn "Enter an integer:"
+  n <- readLn :: IO Int
