@@ -2,7 +2,7 @@
 
 ## Introduction
 
-👋 Hello, I'm Gautham Mohanraj, and I'm excited to introduce myself and share my vision for contributing to our esteemed Amrita FOSS (Free and Open Source Software) club. 🚀 I may not have as much experience as some other members, but I'm eager to learn, grow, and make a positive impact as part of this community.
+👋 Hello, I'm Gautham Mohanraj, and I am currently a first year Computer Science Enginerring Student.
 
 ## Why Choose Me? 🤔
 
@@ -47,3 +47,20 @@ The tasks were a bit challenging, and I faced difficulties, but I understand the
 Despite the challenges, I see the value in pushing ourselves to learn and grow, and I'm excited to continue this journey of improvement within the FOSS club.
 
 I'm excited about the prospect of being a part of this FOSS club and growing alongside all of you. Let's embrace the journey of learning and contributing together! 🌟🚀
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 |
+| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 |
+| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 |
+| Row 7, Col 1 | Row 7, Col 2 | Row 7, Col 3 |
+| Row 8, Col 1 | Row 8, Col 2 | Row 8, Col 3 |
+| Row 9, Col 1 | Row 9, Col 2 | Row 9, Col 3 |
+| Row 10, Col 1 | Row 10, Col 2 | Row 10, Col 3 |
+| Row 11, Col 1 | Row 11, Col 2 | Row 11, Col 3 |
+| Row 12, Col 1 | Row 12, Col 2 | Row 12, Col 3 |
+| Row 13, Col 1 | Row 13, Col 2 | Row 13, Col 3 |
+
