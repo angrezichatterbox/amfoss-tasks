@@ -4,7 +4,7 @@
 
 👋 Hello, I'm Gautham Mohanraj, a first-year Computer Science Engineering student. My decision to pursue Computer Science and Engineering as my major stems from my deep-seated passion for technology and problem-solving. This field perfectly aligns with my interests and aspirations, offering a multitude of versatile career opportunities in a rapidly evolving landscape. I derive immense satisfaction from tackling challenges and accomplishing tasks, making each day an exciting opportunity for learning and innovation. As I embark on this academic journey, I am eager to further develop my skills, continuously explore new concepts, and contribute to the ever-evolving world of technology.
 
-# 🤔 Why Choose Me? 🚀
+## 🤔 Why Choose Me? 🚀
 
 I embarked on my coding journey back in the 9th grade, and coding has been my passion ever since. 🖥️ Initially, I dipped my toes into the world of programming to impress my classmates, but I soon discovered a profound fascination for it. 🌟 Over time, I've composed numerous lines of code for various school projects. While none may be earth-shattering, each one represents a step in my journey of falling in love with coding – whether it was solving a specific problem or completing a particular task. 🧩
 
@@ -12,7 +12,7 @@ So, how does this answer the question, "Why choose me?" 🤷‍♂️ It's quite
 
 My commitment to continuous learning, my enthusiasm for problem-solving, and my willingness to embrace and learn from my missteps make me a strong candidate for any open source project. 🌐 I'm not just here to code; I'm here to code with purpose and make a positive impact. 🚀
 
-What Are My Goals for the Next 6 Months? 🌟
+## What Are My Goals for the Next 6 Months? 🌟
 
 Over the upcoming half-year, I've set some clear-cut objectives to amp up my skills and broaden my horizons. First and foremost, my prime focus will be on honing my coding chops. During this time, I'm determined to tackle those tricky Hackerrank problems that have given me a run for my money and take my problem-solving game up a notch.
 
@@ -25,6 +25,7 @@ To sum it up, my goals for the next 6 months are threefold: to supercharge my co
 ## Contribution to the Club 🤝
 
 I will try my maximum to contribute to the club whereever possible.I would like to help in whatever kind of opportunities being given to me in the intial phase.
+
 ## Thoughts on the Praveshan Process 🤔
 
 The tasks for the praveshan to the club were indeed challenging, and I appreciate the opportunity to learn and grow through them. However, I would like to share some feedback on the process:
@@ -37,17 +38,19 @@ I'm excited about the prospect of being a part of this FOSS club and growing alo
 
 | Tasks List | Description | Status |
 | -------- | -------- | -------- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 |
-| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 |
-| Row 7, Col 1 | Row 7, Col 2 | Row 7, Col 3 |
-| Row 8, Col 1 | Row 8, Col 2 | Row 8, Col 3 |
-| Row 9, Col 1 | Row 9, Col 2 | Row 9, Col 3 |
-| Row 10, Col 1 | Row 10, Col 2 | Row 10, Col 3 |
-| Row 11, Col 1 | Row 11, Col 2 | Row 11, Col 3 |
-| Row 12, Col 1 | Row 12, Col 2 | Row 12, Col 3 |
-| Row 13, Col 1 | Row 13, Col 2 | Row 13, Col 3 |
+| Terminal Wizard | Row 1, Col 2 | Row 1, Col 3 |
+| Lessgo Hugo| Row 2, Col 2 | Row 2, Col 3 |
+| Hello, World!| Row 3, Col 2 | Row 3, Col 3 |
+| Competitive Programming | Row 4, Col 2 | Row 4, Col 3 |
+| Hypertext Mockup Language| Row 5, Col 2 | Row 5, Col 3 |
+| Cricket Vault | Row 6, Col 2 | Row 6, Col 3 |
+| AK-47℃ | Row 7, Col 2 | Row 7, Col 3 |
+| Poke-Search! | Row 8, Col 2 | Row 8, Col 3 |
+| GeoQuest| Row 9, Col 2 | Row 9, Col 3 |
+|  RuskOS | Row 10, Col 2 | Row 10, Col 3 |
+| TinkerCAD| Row 11, Col 2 | Row 11, Col 3 |
+| Godot| Row 12, Col 2 | Row 12, Col 3 |
+|  Vim | Row 13, Col 2 | Row 13, Col 3 |
+|  Bandit | Row 13, Col 2 | Row 13, Col 3 |
+|  Project Euler| Row 13, Col 2 | Row 13, Col 3 |
 
