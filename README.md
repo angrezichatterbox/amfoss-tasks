@@ -36,21 +36,22 @@ Despite the challenges, I see the value in pushing ourselves to learn and grow, 
 
 I'm excited about the prospect of being a part of this FOSS club and growing alongside all of you. Let's embrace the journey of learning and contributing together! 🌟🚀
 
-| Tasks List | Description | Status |
-| -------- | -------- | -------- |
-| Terminal Wizard | Row 1, Col 2 | Row 1, Col 3 |
-| Lessgo Hugo| Row 2, Col 2 | Row 2, Col 3 |
-| Hello, World!| Row 3, Col 2 | Row 3, Col 3 |
-| Competitive Programming | Row 4, Col 2 | Row 4, Col 3 |
-| Hypertext Mockup Language| Row 5, Col 2 | Row 5, Col 3 |
-| Cricket Vault | Row 6, Col 2 | Row 6, Col 3 |
-| AK-47℃ | Row 7, Col 2 | Row 7, Col 3 |
-| Poke-Search! | Row 8, Col 2 | Row 8, Col 3 |
-| GeoQuest| Row 9, Col 2 | Row 9, Col 3 |
-|  RuskOS | Row 10, Col 2 | Row 10, Col 3 |
-| TinkerCAD| Row 11, Col 2 | Row 11, Col 3 |
-| Godot| Row 12, Col 2 | Row 12, Col 3 |
-|  Vim | Row 13, Col 2 | Row 13, Col 3 |
-|  Bandit | Row 13, Col 2 | Row 13, Col 3 |
-|  Project Euler| Row 13, Col 2 | Row 13, Col 3 |
+| Task | Description | Status |
+| ---- | ----------- | ------ |
+| Task 0 | Install Linux | Completed |
+| Task 1 | Terminal Wizard | Completed |
+| Task 2 | Lessgo Hugo |Completed |
+| Task 3 | Hello, World! | Completed |
+| Task 4 | Competitive Programming | Partially Completed |
+| Task 5 | Hypertext Mockup Language | Completed |
+| Task 6 | Cricket Vault | Completed |
+| Task 7 | AK-47℃ | Completed |
+| Task 8 | Poke-Search! | Completed |
+| Task 9 | GeoQuest | Completed |
+| Task 10 | RuskOS | Inomplete |
+| Task 11 | TinkerCAD | Completed |
+| Task 12 | Godot | Incomplete |
+| Task 13 | Vim | Completed |
+| Task 14 | Bandit | Completed |
+| Task 15 | Project Euler | Not Attempted |
 
