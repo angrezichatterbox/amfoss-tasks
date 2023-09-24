@@ -1,19 +1,32 @@
 # BANDIT OVER THE WIRE CHALLENGE 
 Level 0-1 
+
 Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL 
+
 Steps: 
 Using the ssh command I got on the server using the command ssh bandit0@bandit.labs.overthewire.org -p 2220 
 Then I was told to enter the password which was given and it was bandit0 
+
 I got on to the server  
+
 To enter to level 1 I first found the password which was uisng ls to find the file within the server and then cat to read the file and got the first password to login to the level 1 
+
 I typed  ssh bandit1@bandit.labs.overthewire.org -p 2220 and entered the password 
+
 Level 1-2: 
+
 Password: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi 
+
 Steps: 
+
 Use the Level 1 credentials to log in. 
+
 I typed the following commands 
+
 ls  
+
 cat ./-  
+
 I found the password then I  
 I typed  ssh bandit2@bandit.labs.overthewire.org -p 2220 and entered the password 
 Level  2-3: 
