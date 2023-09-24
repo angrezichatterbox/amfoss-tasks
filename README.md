@@ -38,4 +38,12 @@ I may be the small guy who knows a little less than others, but I'm committed to
 
 **Support**: I'm here to support club leaders and members in any way I can. Whether it's organizing events or helping with tasks, count on me to contribute to our club's success.
 
+## Thoughts on the Praveshan Process 🤔
+
+The tasks for the praveshan to the club were indeed challenging, and I appreciate the opportunity to learn and grow through them. However, I would like to share some feedback on the process:
+
+The tasks were a bit challenging, and I faced difficulties, but I understand the reasons behind their complexity. Given more time, I believe I could have delved deeper into some of the tasks. Currently, I have a basic understanding of different domains, but I couldn't explore them thoroughly. The time constraint was a limiting factor in this regard, and having a bit more time for learning and exploration would have been beneficial.
+
+Despite the challenges, I see the value in pushing ourselves to learn and grow, and I'm excited to continue this journey of improvement within the FOSS club.
+
 I'm excited about the prospect of being a part of this FOSS club and growing alongside all of you. Let's embrace the journey of learning and contributing together! 🌟🚀
