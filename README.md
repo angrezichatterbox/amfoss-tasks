@@ -48,9 +48,9 @@ I'm excited about the prospect of being a part of this FOSS club and growing alo
 | Task 7 | AK-47℃ | Completed |
 | Task 8 | Poke-Search! | Completed |
 | Task 9 | GeoQuest | Completed |
-| Task 10 | RuskOS | Inomplete |
+| Task 10 | RuskOS | Not Attempted  |
 | Task 11 | TinkerCAD | Completed |
-| Task 12 | Godot | Incomplete |
+| Task 12 | Godot | Not Attempted  |
 | Task 13 | Vim | Completed |
 | Task 14 | Bandit | Completed |
 | Task 15 | Project Euler | Not Attempted |
