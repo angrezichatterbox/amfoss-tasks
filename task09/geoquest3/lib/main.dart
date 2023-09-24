@@ -151,7 +151,7 @@ class _MapSampleState extends State<MapSample> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Marker sample')),
+      appBar: AppBar(title: Text('GeoQuest')),
       body: GestureDetector(
         onTapUp: (TapUpDetails details) {
           updateMarkerChange(details.localPosition);
@@ -205,7 +205,7 @@ class _MapSampleState extends State<MapSample> {
               print('Error fetching and displaying polyline: $e');
             }
           },
-          child: Text('Fetch and Display Polyline'),
+          child: Text('Find the route'),
         ),
       ),
     );
@@ -233,7 +233,7 @@ class SecondPage extends StatelessWidget {
         MapLatLng(polylinePoint.latitude, polylinePoint.longitude)).toList();
 
     return Scaffold(
-      appBar: AppBar(title: Text('Polyline Animation Sample')),
+      appBar: AppBar(title: Text('ROUTE')),
       body: SfMaps(
         layers: [
           MapTileLayer(
