@@ -50,5 +50,5 @@ The tasks were a bit challenging, and I faced difficulties, but I understand the
 | Task 12 | Godot | Not Attempted  |
 | Task 13 | Vim | Completed |
 | Task 14 | Bandit | Completed |
-| Task 15 | Project Euler | Not Attempted |
+| Task 15 | Project Euler | Partially Completed |
 
