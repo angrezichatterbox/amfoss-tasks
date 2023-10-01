@@ -9,6 +9,7 @@ This task was quite an adventure! 🚀 It took me around 3-4 days to complete, a
 3. Building the Interface: As I progressed, I realized that PySide was instrumental for creating the user interface of my Poke-Search app. 🖥️💡
   
 4. Search Feature: One of the core features of the app was the search button. ⚡ When users hit that button, I made sure to display detailed Pokémon information. 🐾
+
 5.Expanding Functionality: Over time, I didn't stop at just the search feature. I gradually added more buttons and features, such as capturing Pokémon and other exciting elements. 🎮📸
 
 Overall, this project was an incredible learning experience. 🧠 I not only discovered how to design a user-friendly interface in Python but also mastered the art of fetching data from an API and presenting it on the screen. 🌟📊
