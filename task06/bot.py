@@ -4,7 +4,7 @@ import datetime
 import pandas as pd
 from scraping import get_live_scores, team_1, team_2, match_status
 
-TOKEN = 'MTE0OTUyNTc4NDYwODg5OTEwMw.GuKM1v.FQ_gdGWke3f_ZyDGwydHrSdGn-gxit4B1wOWc0'
+TOKEN = 'MTE0OTUyNTc4NDYwODg5OTEwMw.GPIbkT.eAXfbJj9ilOZeRRq_CHyfrZG3laVnrdn-CsQR4'
 
 intents = discord.Intents.default()
 intents.typing = False
