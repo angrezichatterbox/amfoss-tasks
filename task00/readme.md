@@ -1,7 +1,14 @@
 # Ubuntu Installation 💻
-🎉🐧 Successfully installed Ubuntu using a Virtual Machine named UTM on my macOS system! 🖥️ Didn't go for dual boot since I didn't really need Ubuntu, considering macOS already has a powerful Linux terminal. 💻🍏 Super smooth installation process!
 
-Some Blockers I faced:
---> The VM available online were more for Windows and the one more famously avaiable for mac parallels Desktop was paid . Continuing my quest i found UTM which i installed for doing some initial tasks
+🎉🐧 I successfully installed Ubuntu on my macOS system using a Virtual Machine named UTM! 🖥️ I opted not to set up dual boot since I didn't really need Ubuntu, given that macOS already comes equipped with a powerful Linux terminal. 💻🍏 The installation process was super smooth!
 
-Later i installed Dual Boot on Mac Since i felt like i might need it for varioususes The overall Experiance of doing it was quite intresting since by default or ethically Mac doesnot so i had to find git pages where people had put up soltuions for doing so 
+## Challenges Faced:
+
+- Availability of VMs: Most virtual machines available online were tailored for Windows. Additionally, the more famous option for Mac, Parallels Desktop, was a paid solution. Undeterred, I continued my quest.
+
+- Discovery of UTM: After some research, I stumbled upon UTM and decided to install it for my initial tasks.
+
+- Later, I installed Dual Boot on Mac because I felt I might need it for various purposes. The overall experience was quite interesting because by default, macOS doesn't support this. I had to search for Git pages where people had posted solutions for achieving it.
+
+Overall, the journey of installing and configuring Ubuntu on my macOS system has been both educational and rewarding. 💻🍏🐧
+
