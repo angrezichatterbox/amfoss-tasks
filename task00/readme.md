@@ -3,3 +3,5 @@
 
 Some Blockers I faced:
 --> The VM available online were more for Windows and the one more famously avaiable for mac parallels Desktop was paid . Continuing my quest i found UTM which i installed for doing some initial tasks
+
+Later i installed Dual Boot on Mac Since i felt like i might need it for varioususes The overall Experiance of doing it was quite intresting since by default or ethically Mac doesnot so i had to find git pages where people had put up soltuions for doing so 
