@@ -34,19 +34,19 @@ The tasks were a bit challenging, and I faced difficulties, but I understand why
 
 | Task | Description | Status |
 | ---- | ----------- | ------ |
-| Task 0 | Install Linux | Completed |
-| Task 1 | Terminal Wizard | Completed |
-| Task 2 | Lessgo Hugo | Completed |
-| Task 3 | Hello, World! | Completed |
-| Task 4 | Competitive Programming | Partially Completed |
-| Task 5 | Hypertext Mockup Language | Completed |
-| Task 6 | Cricket Vault | Completed |
-| Task 7 | AK-47℃ | Completed |
-| Task 8 | Poke-Search! | Completed |
-| Task 9 | GeoQuest | Completed |
-| Task 10 | RuskOS | Not Attempted |
-| Task 11 | TinkerCAD | Completed |
-| Task 12 | Godot | Not Attempted |
-| Task 13 | Vim | Completed |
-| Task 14 | Bandit | Completed |
-| Task 15 | Project Euler | Partially Completed |
+| [Task00](https://link-url-here.org) | Install Linux | Completed |
+| [Task00](https://link-url-here.org)| Terminal Wizard | Completed |
+| [Task00](https://link-url-here.org) | Lessgo Hugo | Completed |
+| [Task00](https://link-url-here.org)| Hello, World! | Completed |
+| [Task00](https://link-url-here.org) | Competitive Programming | Partially Completed |
+|[Task00](https://link-url-here.org)| Hypertext Mockup Language | Completed |
+| [Task00](https://link-url-here.org) | Cricket Vault | Completed |
+|[Task00](https://link-url-here.org) | AK-47℃ | Completed |
+| [Task00](https://link-url-here.org) | Poke-Search! | Completed |
+|[Task00](https://link-url-here.org) | GeoQuest | Completed |
+| [Task00](https://link-url-here.org) | RuskOS | Not Attempted |
+| [Task00](https://link-url-here.org) | TinkerCAD | Completed |
+|[Task00](https://link-url-here.org)| Godot | Not Attempted |
+| [Task00](https://link-url-here.org)| Vim | Completed |
+| [Task00](https://link-url-here.org)| Bandit | Completed |
+|[Task00](https://link-url-here.org) | Project Euler | Partially Completed |
