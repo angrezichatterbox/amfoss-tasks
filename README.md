@@ -24,14 +24,13 @@ To sum it up, my goals for the next 6 months are threefold: to supercharge my co
 
 ## Contribution to the Club 🤝
 
-I will try my maximum to contribute to the club whereever possible.I would like to help in whatever kind of opportunities being given to me in the intial phase.
+I will try my maximum to contribute to the club wherever possible. I would like to help in whatever kind of opportunities being given to me in the initial phase.
 
 ## Thoughts on the Praveshan Process 🤔
 
 The tasks for the praveshan to the club were indeed challenging, and I appreciate the opportunity to learn and grow through them. However, I would like to share some feedback on the process:
 
 The tasks were a bit challenging, and I faced difficulties, but I understand the reasons behind their complexity. Given more time, I believe I could have delved deeper into some of the tasks. Currently, I have a basic understanding of different domains, but I couldn't explore them thoroughly. The time constraint was a limiting factor in this regard, and having a bit more time for learning and exploration would have been beneficial.
-
 
 | Task | Description | Status |
 | ---- | ----------- | ------ |
@@ -51,4 +50,3 @@ The tasks were a bit challenging, and I faced difficulties, but I understand the
 | Task 13 | Vim | Completed |
 | Task 14 | Bandit | Completed |
 | Task 15 | Project Euler | Partially Completed |
-
