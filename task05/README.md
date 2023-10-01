@@ -7,8 +7,7 @@ Some Blockers I faced during this project :
 --> While making the the items page i wasnt able to propelry align the entire table Even though its still not completeley aligned i felt it was much better than before since earlier the items got hidden.
 
 What did i learn :
---> I learned Basic CSS 
-
+--> I learned Basic CSS!!
 --> I learned Basic Html
 
 --> I learned how to integrate CSS code and HTML Code For the first time.
