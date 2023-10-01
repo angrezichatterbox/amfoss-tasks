@@ -67,4 +67,5 @@ vim <filename> for some, while others were edited using the mystical Visual Stud
 
 5. git push: Propel your committed changes to the remote repository, sharing your mystical work with the wider world. 🚀
 
+6. git checkout: For going to other branch 
 With these incantations, you have the power to navigate, edit, and harness the magic of Git. 🌟🪄🔮
