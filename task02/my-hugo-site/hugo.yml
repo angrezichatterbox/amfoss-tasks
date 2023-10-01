@@ -22,16 +22,6 @@ params:
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   
-  assets:
-    favicon: "assets/faviconnew.png"
-    favicon16x16: "assets/faviconnew.png"
-    favicon32x32: "assets/faviconnew.png"
-    apple_touch_icon: "assets/faviconnew.png"
-    safari_pinned_tab: "assets/faviconnew.png"
-  label:
-    text: "Gautham Mohanraj"
-    icon: assets/faviconnew.png
-    iconHeight: 35
   profileMode:
     enabled: false
     title: "Hi there \U0001F44B"
