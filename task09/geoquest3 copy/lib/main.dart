@@ -121,7 +121,7 @@ class _MapSampleState extends State<MapSample> {
 
   Future<List<MapLatLng>> fetchPolylinePoints(
       MapLatLng origin, MapLatLng destination) async {
-    final apiKey = '5b3ce3597851110001cf6248dc67b05295d14517adf274a26b856fd5'; // Replace with your Open Route API key
+    final apiKey = '5b3ce3597851110001cf6248dc67b05295d14517adf274a26b856fd5'; 
     final apiUrl = 'https://api.openrouteservice.org/v2/directions/driving-car?';
 
     final response = await http.get(
