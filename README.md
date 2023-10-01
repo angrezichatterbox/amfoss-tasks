@@ -34,9 +34,9 @@ The tasks were a bit challenging, and I faced difficulties, but I understand why
 
 | Task | Description | Status |
 | ---- | ----------- | ------ |
-| [Task00](https://link-url-here.org) | Install Linux | Completed |
-| [Task01](https://link-url-here.org)| Terminal Wizard | Completed |
-| [Task02](https://link-url-here.org) | Lessgo Hugo | Completed |
+| [Task00](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task00) | Install Linux | Completed |
+| [Task01]([https://link-url-here.org](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task01))| Terminal Wizard | Completed |
+| [Task02](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task02) | Lessgo Hugo | Completed |
 | [Task03](https://link-url-here.org)| Hello, World! | Completed |
 | [Task04](https://link-url-here.org) | Competitive Programming | Partially Completed |
 |[Task05](https://link-url-here.org)| Hypertext Mockup Language | Completed |
