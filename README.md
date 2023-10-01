@@ -35,18 +35,18 @@ The tasks were a bit challenging, and I faced difficulties, but I understand why
 | Task | Description | Status |
 | ---- | ----------- | ------ |
 | [Task00](https://link-url-here.org) | Install Linux | Completed |
-| [Task00](https://link-url-here.org)| Terminal Wizard | Completed |
-| [Task00](https://link-url-here.org) | Lessgo Hugo | Completed |
-| [Task00](https://link-url-here.org)| Hello, World! | Completed |
-| [Task00](https://link-url-here.org) | Competitive Programming | Partially Completed |
-|[Task00](https://link-url-here.org)| Hypertext Mockup Language | Completed |
-| [Task00](https://link-url-here.org) | Cricket Vault | Completed |
-|[Task00](https://link-url-here.org) | AK-47℃ | Completed |
-| [Task00](https://link-url-here.org) | Poke-Search! | Completed |
-|[Task00](https://link-url-here.org) | GeoQuest | Completed |
-| [Task00](https://link-url-here.org) | RuskOS | Not Attempted |
-| [Task00](https://link-url-here.org) | TinkerCAD | Completed |
-|[Task00](https://link-url-here.org)| Godot | Not Attempted |
-| [Task00](https://link-url-here.org)| Vim | Completed |
-| [Task00](https://link-url-here.org)| Bandit | Completed |
-|[Task00](https://link-url-here.org) | Project Euler | Partially Completed |
+| [Task01](https://link-url-here.org)| Terminal Wizard | Completed |
+| [Task02](https://link-url-here.org) | Lessgo Hugo | Completed |
+| [Task03](https://link-url-here.org)| Hello, World! | Completed |
+| [Task04](https://link-url-here.org) | Competitive Programming | Partially Completed |
+|[Task05](https://link-url-here.org)| Hypertext Mockup Language | Completed |
+| [Task06](https://link-url-here.org) | Cricket Vault | Completed |
+|[Task07](https://link-url-here.org) | AK-47℃ | Completed |
+| [Task08](https://link-url-here.org) | Poke-Search! | Completed |
+|[Task09](https://link-url-here.org) | GeoQuest | Completed |
+| [Task10](https://link-url-here.org) | RuskOS | Not Attempted |
+| [Task11](https://link-url-here.org) | TinkerCAD | Completed |
+|[Task12](https://link-url-here.org)| Godot | Not Attempted |
+| [Task13](https://link-url-here.org)| Vim | Completed |
+| [Task14](https://link-url-here.org)| Bandit | Completed |
+|[Task15](https://link-url-here.org) | Project Euler | Partially Completed |
