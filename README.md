@@ -35,11 +35,11 @@ The tasks were a bit challenging, and I faced difficulties, but I understand why
 | Task | Description | Status |
 | ---- | ----------- | ------ |
 | [Task00](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task00) | Install Linux | Completed |
-| [Task01]([https://link-url-here.org](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task01))| Terminal Wizard | Completed |
+| [Task01]((https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task01))| Terminal Wizard | Completed |
 | [Task02](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task02) | Lessgo Hugo | Completed |
-| [Task03](https://link-url-here.org)| Hello, World! | Completed |
-| [Task04](https://link-url-here.org) | Competitive Programming | Partially Completed |
-|[Task05](https://link-url-here.org)| Hypertext Mockup Language | Completed |
+| [Task03](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task03)| Hello, World! | Completed |
+| [Task04]((https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task04)) | Competitive Programming | Partially Completed |
+|[Task05](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task05)| Hypertext Mockup Language | Completed |
 | [Task06](https://link-url-here.org) | Cricket Vault | Completed |
 |[Task07](https://link-url-here.org) | AK-47℃ | Completed |
 | [Task08](https://link-url-here.org) | Poke-Search! | Completed |
