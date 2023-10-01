@@ -35,18 +35,18 @@ The tasks were a bit challenging, and I faced difficulties, but I understand why
 | Task | Description | Status |
 | ---- | ----------- | ------ |
 | [Task00](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task00) | Install Linux | Completed |
-| [Task01]((https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task01))| Terminal Wizard | Completed |
+| [Task01](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task01))| Terminal Wizard | Completed |
 | [Task02](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task02) | Lessgo Hugo | Completed |
 | [Task03](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task03)| Hello, World! | Completed |
-| [Task04]((https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task04)) | Competitive Programming | Partially Completed |
+| [Task04](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task04) | Competitive Programming | Partially Completed |
 |[Task05](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task05)| Hypertext Mockup Language | Completed |
-| [Task06](https://link-url-here.org) | Cricket Vault | Completed |
-|[Task07](https://link-url-here.org) | AK-47℃ | Completed |
-| [Task08](https://link-url-here.org) | Poke-Search! | Completed |
-|[Task09](https://link-url-here.org) | GeoQuest | Completed |
-| [Task10](https://link-url-here.org) | RuskOS | Not Attempted |
-| [Task11](https://link-url-here.org) | TinkerCAD | Completed |
-|[Task12](https://link-url-here.org)| Godot | Not Attempted |
-| [Task13](https://link-url-here.org)| Vim | Completed |
-| [Task14](https://link-url-here.org)| Bandit | Completed |
-|[Task15](https://link-url-here.org) | Project Euler | Partially Completed |
+| [Task06](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task06) | Cricket Vault | Completed |
+|[Task07](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task07) | AK-47℃ | Completed |
+| [Task08](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task08) | Poke-Search! | Completed |
+|[Task09](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task09) | GeoQuest | Completed |
+| [Task10](https://github.com/angrezichatterbox/amfoss-tasks) | RuskOS | Not Attempted |
+| [Task11](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task11) | TinkerCAD | Completed |
+|[Task12](https://github.com/angrezichatterbox/amfoss-tasks)| Godot | Not Attempted |
+| [Task13](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task13)| Vim | Completed |
+| [Task14](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task14)| Bandit | Completed |
+|[Task15](https://github.com/angrezichatterbox/amfoss-tasks/tree/main/task15) | Project Euler | Partially Completed |
